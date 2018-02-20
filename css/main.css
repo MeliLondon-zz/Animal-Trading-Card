@@ -1,7 +1,9 @@
 body {
+  font-family: Arial;
   text-align: justify;
   line-height: 1.5;
   letter-spacing: normal;
+  box-sizing: border-box;
 }
 
 h3 {
@@ -15,7 +17,7 @@ h3 {
   background-image: url("http://hddesktopwallpapers.in/wp-content/uploads/2015/06/Jungle-Wallpapers-HD-A11.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  box-shadow: 10px 15px 5px forestgreen;
+  box-shadow: 5px 5px 10px forestgreen;
 }
 
 .title {
